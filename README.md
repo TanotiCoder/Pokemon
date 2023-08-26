@@ -6,6 +6,10 @@ This application is build by [Jetpack Compose](https://developer.android.com/jet
 
 <img src="https://github.com/TanotiCoder/Pokemon/assets/81159555/6ad78771-27d9-487f-a051-ae0a2eb79e4c" width="220px"/> <img src="https://github.com/TanotiCoder/Pokemon/assets/81159555/262a6a42-9dbd-4291-84ec-450f03548adb" width="220px"/>
 
+
+https://github.com/TanotiCoder/Pokemon/assets/81159555/42847d3e-9702-4cb6-97ba-61dbd6111bc4
+
+
 ---
 # Tech Stack
 
